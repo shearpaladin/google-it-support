@@ -22,7 +22,7 @@ What will happen if you plug in a 220v device into a 120v outlet?
 What are two common types of CPU sockets?
 
 * AMD and PGA
-* **LGA and PGA **
+* **LGA and PGA**
 * Intel and AMD 
 * Qualcomm and LGA 
 
@@ -53,7 +53,7 @@ Which characteristics differentiate a Solid State Drive (SSD) from a Hard Disk D
 
 * High RPMs 
 
-* **Non-moving parts **
+* **Non-moving parts**
 
 > SSDs have non-moving parts, are a smaller form factor, and utilize non-volatile memory.
 
