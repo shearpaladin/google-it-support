@@ -23,7 +23,7 @@ What command would you use in Ubuntu Linux to install a software package?
 
 - Application
 - B: Execute
-- Apt
+- **Apt**
 - Run
 
 > apt is a command we use in Ubuntu for package installs.
