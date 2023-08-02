@@ -55,10 +55,10 @@ A user needs their password reset. The IT Support Specialist is pulling up the n
 
 How would you respond to the user?
 
-- [ ] Let the user know that you're working on their issue and will be sure to answer all of their questions once you're done.
+- [x] Let the user know that you're working on their issue and will be sure to answer all of their questions once you're done.
 - [ ] Kindly ask the user to stop asking questions, since you're trying to solve their problem.
 - [ ] Ignore the user and keep working on resetting the password, so you don’t lose your place.
-- [x] Stop what you're doing and explain to the user that passwords should have numbers and symbols for security purposes, and this is more important than productivity.
+- [ ] Stop what you're doing and explain to the user that passwords should have numbers and symbols for security purposes, and this is more important than productivity.
 
 > You're acknowledging the user’s questions, but setting a clear agenda of what you want to accomplish. This allows them to understand what they should anticipate and helps you keep control of the conversation.
 
@@ -118,7 +118,7 @@ What do you do next?
 
 - [ ] Suggest the user reboot his machine when this happens.
 - [ ] Tell the user that you have no control over their bandwidth and politely close the chat.
-- [x] Give the user what they want. Increase their bandwidth and move on to the next user.
+- [ ] Give the user what they want. Increase their bandwidth and move on to the next user.
 - [x] Ask more questions about what programs they’re using.
 
 > This response shows that you were paying attention to the little clues that people leave. The user mentions that this always happens after lunch. Pinpointing the programs used will help you better diagnose the issue faster.
