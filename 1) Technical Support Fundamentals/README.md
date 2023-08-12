@@ -16,3 +16,5 @@ This course is the first of a series that aims to prepare you for a role as an e
 * Customer Support
 * Linux
 * Troubleshooting
+
+![Technical Support Certifcate](technical-support.png)
